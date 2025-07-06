@@ -1,5 +1,10 @@
 # Predicción de Cancelación de Clientes – Model Fitness
 
+## Cómo usarlo
+1. Clona este repositorio
+2. Abre el archivo .ipynb en Jupyter Notebook
+3. Ejecuta las celdas para ver el análisis completo
+
 ## Descripción del Proyecto
 
 Este proyecto fue desarrollado como parte del Sprint 13 del bootcamp de análisis de datos de TripleTen. El objetivo es ayudar a la cadena de gimnasios **Model Fitness** a identificar clientes con riesgo de cancelación, entender los factores que influyen en su permanencia y segmentar a los usuarios para diseñar estrategias de retención más efectivas.
